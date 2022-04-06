@@ -1,4 +1,4 @@
-## partyinfo
+# partyinfo
 
 partyinfo is a [Discord](https://discord.com/) bot, made with [discord.js](https://discord.js.org/) and [partyverse-wrapper](/) to grab data from [Partyverse](https://partyverse.app/).
 
